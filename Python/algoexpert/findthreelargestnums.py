@@ -12,7 +12,6 @@
 
 #Solution 1
 def findThreeLargestNumbers(array):
-    # Write your code here.
 	maxvaluesarray = array[:3]
 	maxvaluesarray.sort()
 		
@@ -25,7 +24,7 @@ def findThreeLargestNumbers(array):
 	
 	return maxvaluesarray
 
-#Alternate solution
+#Algoexpert solution
 def findThreeLargestNums(array):
     three_largest_number = [None, None, None]
     for num in array:

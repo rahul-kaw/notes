@@ -29,7 +29,7 @@ def minimumWaitingTime(queries):
 minimumWaitingTime(queries)
 
 '''
-Alternate solution
+Algoexpert solution
 '''
 
 waitTime = 0

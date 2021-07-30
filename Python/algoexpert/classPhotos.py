@@ -32,7 +32,6 @@ blueShirtHeights =   [6, 9, 2, 4, 5]
 
 
 def classPhotos(redShirtHeights, blueShirtHeights):
-    # Write your code here.
 	redShirtHeights.sort(reverse=True)
 	blueShirtHeights.sort(reverse=True)
 	print(redShirtHeights)
